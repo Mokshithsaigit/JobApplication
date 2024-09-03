@@ -6,4 +6,5 @@ metadata:
     github.com/project-slug: Mokshithsaigit/JobApplication
 spec:
   type: other
+  owner: group:default/guests
   lifecycle: unknown
