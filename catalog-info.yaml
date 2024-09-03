@@ -9,12 +9,11 @@ spec:
   owner: group:default/guests
   lifecycle: unknown
 
---
-
+---
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: jobs - api
+  name: jobs-api
   description: API for jobs
 spec:
   type: openapi
