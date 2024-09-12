@@ -20,4 +20,4 @@ spec:
   lifecycle: production
   owner: group:default/tac
   definition:
-    $text: https://my.dev.insideview.com/integrations/v2/api-docs
+    $text: https://my.insideview.com/integrations/v2/api-docs
